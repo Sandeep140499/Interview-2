@@ -1,0 +1,68 @@
+.mainpage{
+    background-image: url(images\ \(1\).jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.hello{
+    margin-top: 15%;
+    font-size: 8rem;
+}
+.button{
+    width: 15%;
+    height: 35px;
+    font-size: xx-large;
+}
+/* -----page 2---- */
+.menu{
+    height: 15%;
+    font-size: 1.5erm;
+}
+/* -----page 4----- */
+.body{
+    background-color: brown;
+}
+.page4{
+    border: 2px solid black;
+    height: 250px;
+    width: 15%;
+    border-radius: 15%;
+    background-color: white;
+    display: inline-block;
+    font-size: 2rem;
+    pad
+}
+.box2{
+    border: 2px solid black;
+    height: 250px;
+    width: 15%;
+    border-radius: 15%;
+    background-color: white;
+    display: inline-block;
+    font-size: 2rem;
+}
+.box3{
+    border: 2px solid black;
+    height: 250px;
+    width: 15%;
+    border-radius: 15%;
+    background-color: white;
+    display: inline-block;
+    font-size: 2rem;
+}
+.flex{
+    display: flex;
+    flex-wrap: wrap;
+}
+/* ------Page 5----- */
+.login{
+    font-size: xx-large;
+    color: green;
+}
+.signUP{
+    font-size: xx-large;
+    color: green;
+}
+.button{
+    text-align: center;
+}
+@media ONLY screen (max-width: )
